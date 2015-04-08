@@ -7,6 +7,7 @@ Requesting Features
 Please follow these guidelines when requesting a feature:
 * Please avoid adding [tags] to your titles
 * Make sure the feature hasn't already been requested
+* Do not request TTT features here
 
 Bug Reports
 ---
