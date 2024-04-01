@@ -8,6 +8,7 @@ Please follow these guidelines when requesting a feature:
 * Please avoid adding [tags] to your titles
 * Make sure the feature hasn't already been requested
 * Do not request TTT features here
+* You can propose changes via Pull Requests here: https://github.com/Facepunch/garrysmod
 
 Bug Reports
 ---
