@@ -1,15 +1,14 @@
 blank_issues_enabled : false
 
 contact_links:
+    -   name: "Bug report"
+        about: "Report bugs with Garry's Mod here"
+        url: "https://github.com/Facepunch/garrysmod-issues/issues/new/choose"
 
-    -   about : I want to report a bug
-        name: 🪳 Bug Report
-        url : https://github.com/Facepunch/garrysmod-issues
-        
-    -   about : "I need support for Garry's Mod"
-        name : 🚨 Support Request
-        url : https://support.facepunchstudios.com/
+    -   name: "Facepunch support"
+        about: "The official Facepunch customer support portal for game issues."
+        url: "https://support.facepunchstudios.com/"
 
-    -   about : "I want to talk about Garry's Mod"
-        name : 💬 Community Discussions
-        url : https://discord.gg/gmod
+    -   name: "Official Discord server"
+        about: "The official Discord server for discussing the game, as well as community help with playing or modding the game"
+        url: "https://discord.gg/gmod"
