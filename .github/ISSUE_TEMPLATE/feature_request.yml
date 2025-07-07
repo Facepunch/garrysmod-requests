@@ -1,9 +1,7 @@
 
-name: Feature request
-about: Suggest an idea for Garry's Mod
-title: ''
-labels: ''
-assignees: ''
+name: "Feature request"
+about: "Suggest an idea for Garry's Mod"
+title: "Feature request"
 body:
   - type: markdown
     attributes:
