@@ -1,7 +1,6 @@
 
 name: "Feature request"
-about: "Suggest an idea for Garry's Mod"
-title: "Feature request"
+description: "Suggest an idea for Garry's Mod"
 body:
   - type: markdown
     attributes:
